@@ -15,3 +15,6 @@ You may also find these websites helpful when using GL and GLUT API:heavy_check_
 > [GLUT API, version 3 (opengl.org)](https://www.opengl.org/resources/libraries/glut/spec3/spec3.html)
 
 If you find it tricky to get your hands on coding, you can have a glance at my reports in the folder of every experiments, which record the troubles I encountered and how I tackled them. Hopefully they could be helpful to you!:grinning:
+
+If you are searching for some books for deeper understanding, go to the folder `Books` to see if there is any that is to your taste.
+
