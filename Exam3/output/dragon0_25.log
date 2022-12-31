@@ -1,0 +1,19 @@
+PolyMeshT::add_face: complex edge
+PolyMeshT::add_face: complex edge
+PolyMeshT::add_face: complex edge
+PolyMeshT::add_face: complex edge
+Load model successfully
+[Orig] Model get 5283 vertex in total
+[Orig] Model get 10461 face in total
+Adding q property...
+Adding q property finished
+Adding item property...
+Adding item property finished
+Sort 15704 edges in total
+Deleting 3962 vertex...
+Still have 0 vertex to delete
+CPU time = 3
+[After] Model get 1321 vertex in total
+[After] Model get 2537 face in total
+Saving models with simplification ratio 0.25 at output/dragon0_25.obj
+Loading the model...
